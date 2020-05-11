@@ -1,4 +1,4 @@
 # hello-world
 short description
 
-Hello. I have no idea what I'm doing, but i'm excited. 
+Hello. I have no idea what I'm doing, but I'm excited. 
